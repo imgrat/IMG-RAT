@@ -14,6 +14,7 @@
 [![https://t.me/+d7B9nU-M9KJiNzIx](https://img.shields.io/badge/DEMO-VIDEO-blue.svg?style=flat-square)](https://t.me/+d7B9nU-M9KJiNzIx)
 
 ## Features
+- Anti delete
  - Read all the files of Internal Storage
  - Download Any Media to your Device from Victims Device
  - Get all the system information of Victim Device
