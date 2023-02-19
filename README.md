@@ -9,7 +9,7 @@
 <div align="center">
 
 [![https://telegram.me/imagerat](https://img.shields.io/badge/Telegram-IMGRAT-orange.svg?style=flat-square)](https://telegram.me/imagerat)
- [![https://t.me/+d7B9nU-M9KJiNzIx](https://img.shields.io/badge/Telegram-IMGRAT-orange.svg?style=flat-square)](https://t.me/+d7B9nU-M9KJiNzIx)
+ [![https://t.me/+d7B9nU-M9KJiNzIx](https://img.shields.io/badge/Telegram-IMGRATCHANNEL-orange.svg?style=flat-square)](https://t.me/+d7B9nU-M9KJiNzIx)
 </div>
 
 # DEMO
