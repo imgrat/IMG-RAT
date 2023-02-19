@@ -3,6 +3,7 @@
 </p>
 <h1 align=center>IMG RAT</h1>
 
+
 ## Image Rat Support Android Version 13
 
 <div align="center">
@@ -34,3 +35,5 @@
  - Change Wallpaper
  - Run shell Commands
  - Get Clipboard text (Only When app's Activity is visible)
+
+
